@@ -13,4 +13,4 @@ This app can show you the IP address of the server running it
 - Install the dependencies with the command `yarn`
 - Run with `yarn start`
 
-You should see a message on your console of "Listening on port XXXX". If you access the browser in the port mentioned, you should see the app running and working.
+You should see a message on your console of "Listening on port XXX". If you access the browser in the port mentioned, you should see the app running and working.
